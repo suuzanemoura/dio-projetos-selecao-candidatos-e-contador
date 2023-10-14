@@ -33,9 +33,9 @@ public class Contador {
 
         int contagem = valorDois - valorUm;
 
-        System.out.println("Fazendo a contagem de 0 a " + contagem);
+        System.out.println("Fazendo a contagem de 1 a " + contagem);
 
-        for (int i = 0; i <= contagem; i++) {
+        for (int i = 1; i <= contagem; i++) {
             System.out.println(i);
         }
     }
