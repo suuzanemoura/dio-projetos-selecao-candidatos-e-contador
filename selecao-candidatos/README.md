@@ -4,6 +4,8 @@
 
 O projeto Seleção de Candidatos é sistema simples com a linguaguem Java divido em quatro cases, onde é analisado a seleção de cadidatos em relação ao sálario pretendido por eles.
 
+## Cases
+
 ### Case 1:
 
 Um processo seletivo, onde o valor base salarial é de R$ 2.000,00.
@@ -38,7 +40,7 @@ Um sistama onde o RH deverá realizar uma ligação, com no máximo 03 tentativa
 ![java](https://img.shields.io/badge/java-4F5B93?style=for-the-badge&logo=Java&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Status do projeto
+## Status do projeto
 
 - Concluído ⏳
 
