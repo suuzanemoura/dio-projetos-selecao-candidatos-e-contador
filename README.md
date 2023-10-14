@@ -1,18 +1,40 @@
-## Getting Started
+# Projetos Seleção de Candidatos e Contador
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Introdução
 
-## Folder Structure
+Os projetos de Seleção de Candidatos e Contador são desafios da trilha Java Básico ministrado pela DIO no Santander Bootcamp 2023: FullStack Java + Angular.
 
-The workspace contains two folders by default, where:
+Os conteúdos a serem explorados são os controles de fluxo através de:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Estruturas Condicionais;
+- Estruturas de repetição;
+- Tratamento de Exceções;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Seleção de Candidatos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Repositório: <a href="https://github.com/suuzanemoura/dio-projetos-selecao-candidatos-e-contador/tree/main/selecao-candidatos"> _Clique aqui_</a>
 
-## Dependency Management
+### Contador
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Repositório: <a href="https://github.com/suuzanemoura/dio-projetos-selecao-candidatos-e-contador/tree/main/desafio-controle-de-fluxo"> _Clique aqui_</a>
+
+## Funcionalidades
+
+```bash
+. Interação do usuário com o terminal.
+```
+
+## Tecnologias
+
+![java](https://img.shields.io/badge/java-4F5B93?style=for-the-badge&logo=Java&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## Status do projeto
+
+- Concluído ⏳
+
+## <img alt="Coração Roxo" height="15" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/ce158244-38f2-4162-b0a4-24b1cfa66ef8"> Contato
+
+[![Email](https://img.shields.io/badge/-Gmail-EBE2F1?style=for-the-badge&logo=gmail&logoColor=460C68)](mailto:suuzanemoura@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EBE2F1?style=for-the-badge&logo=linkedin&logoColor=460C68)](https://www.linkedin.com/in/suuzanemoura)
+[![Behance](https://img.shields.io/badge/-Behance-EBE2F1?style=for-the-badge&logo=behance&logoColor=460C68)](https://www.behance.net/suzanemoura)
