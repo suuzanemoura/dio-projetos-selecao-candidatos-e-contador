@@ -1,48 +1,55 @@
-# Projeto Seleção de Candidatos
+# Projeto: Seleção de Candidatos
 
 ## Introdução
 
-O projeto Seleção de Candidatos é sistema simples com a linguaguem Java divido em quatro cases, onde é analisado a seleção de cadidatos em relação ao sálario pretendido por eles.
+O projeto **Seleção de Candidatos** é um sistema simples desenvolvido em **Java**, dividido em quatro **cases**, que simula um processo seletivo com base no salário pretendido pelos candidatos.
+O objetivo é praticar estruturas de controle de fluxo como condicionais, laços de repetição e tratamento de exceções.
 
 ## Cases
 
-### Case 1:
+### Case 1 – Análise Salarial
 
-Um processo seletivo, onde o valor base salarial é de R$ 2.000,00.
+Simula um processo seletivo com salário base de **R$ 2.000,00**, em que o sistema avalia a compatibilidade do salário pretendido com o oferecido.
 
-- Se o valor salário base, for maior que valor salário pretentido, o sistema vai imprimir: **"LIGAR PARA O CANDIDATO"**;
-- Senão, se o valor salário base for igual ao valor salário pretentido, o sistema vai imprimir: **"LIGAR PARA O CANDIDATO, COM CONTRA PROPOSTA"**;
-- Senão imprima: **"AGUARDANDO RESULTADO DOS DEMAIS CANDIDATOS"**.
+- Se o salário pretendido for **menor** que o salário base:  
+  `LIGAR PARA O CANDIDATO`
+- Se o salário pretendido for **igual** ao salário base:  
+  `LIGAR PARA O CANDIDATO, COM CONTRA PROPOSTA`
+- Caso contrário:  
+  `AGUARDANDO RESULTADO DOS DEMAIS CANDIDATOS`
 
-### Case 2:
+### Case 2 – Seleção de Candidatos:
 
-Um sistema garanta que, diante das inúmeras candidaturas sejam selecionados apenas no máximo, 5 candidatos para entrevista, onde o salário pretendido seja menor ou igual ao salário base.
+Seleciona **até 5 candidatos** cujo salário pretendido seja **menor ou igual** ao valor oferecido para participação na próxima etapa.
 
-### Case 3:
+### Case 3 – Listagem dos Selecionados:
 
-Um sistema que imprima a lista dos candidatos selecionados, para disponibilizar para o RH entrar em contato.
+Imprime no terminal os nomes dos candidatos selecionados para entrevista, para que o setor de RH possa entrar em contato.
 
-### Case 4:
+### Case 4 – Simulação de Contato Telefônico:
 
-Um sistama onde o RH deverá realizar uma ligação, com no máximo 03 tentativas para cada candidato selecionado.
+Simula até **3 tentativas de ligação** para cada candidato. O resultado será:
 
-- Caso o candidato atenda, deve-se imprimir: **"CONSEGUIMOS CONTATO COM CANDIDATO APÓS X TENTATIVA(S)"**;
-- Do contrário imprimir: **"NÃO CONSEGUIMOS CONTATO COM O CANDIDATO"**.
+- Caso o candidato atenda:  
+  `CONSEGUIMOS CONTATO COM O CANDIDATO APÓS X TENTATIVA(S)`
+- Caso contrário:  
+  `NÃO CONSEGUIMOS CONTATO COM O CANDIDATO`
 
 ## Funcionalidades
 
 ```bash
-. Interação do usuário com o terminal.
+✔ Interação com o usuário via terminal
+✔ Impressão de resultados simulando decisões de RH
 ```
 
 ## Tecnologias
 
-![java](https://img.shields.io/badge/java-4F5B93?style=for-the-badge&logo=Java&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- Java
+- Git
 
 ## Status do projeto
 
-- Concluído ⏳
+- ✅ Concluído
 
 ## <img alt="Coração Roxo" height="15" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/ce158244-38f2-4162-b0a4-24b1cfa66ef8"> Contato
 
