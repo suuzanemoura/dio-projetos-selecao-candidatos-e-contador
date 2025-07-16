@@ -35,6 +35,31 @@ Simula até **3 tentativas de ligação** para cada candidato. O resultado será
 - Caso contrário:  
   `NÃO CONSEGUIMOS CONTATO COM O CANDIDATO`
 
+## Instalação
+
+> Certifique-se de ter o **Java JDK** instalado (versão 11 ou superior).
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/suuzanemoura/dio-projetos-selecao-candidatos-e-contador.git
+```
+
+2. **Acesse a pasta do projeto**
+```bash
+cd dio-projetos-selecao-candidatos-e-contador/selecao-candidatos/src
+```
+
+3. **Compile o arquivo Java**
+```bash
+javac ProcessoSeletivo.java
+```
+
+4. **Execute o programa**
+```bash
+java ProcessoSeletivo
+```
+
+
 ## Funcionalidades
 
 ```bash
