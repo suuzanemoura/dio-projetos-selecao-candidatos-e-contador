@@ -15,6 +15,34 @@ O **Projeto Contador** é um sistema simples desenvolvido em **Java**, que receb
 > Imprimindo o número 18
 > ```
 
+## Instalação
+
+> Certifique-se de ter o **Java JDK** instalado (versão 11 ou superior).
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/suuzanemoura/dio-projetos-selecao-candidatos-e-contador.git
+```
+
+2. **Acesse a pasta do projeto**
+```bash
+cd dio-projetos-selecao-candidatos-e-contador/desafio-controle-de-fluxo/src
+```
+
+3. **Compile o arquivo Java**
+```bash
+javac Contador.java
+```
+
+4. **Execute o programa**
+```bash
+java Contador 12 30
+```
+
+> Substitua os números `12` e `30` pelos valores desejados.  
+> ⚠️ O **segundo número deve ser maior** que o primeiro, senão o programa lançará a exceção `ParametrosInvalidosException`.
+
+
 ## Funcionalidades
 
 ```bash
