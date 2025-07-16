@@ -1,37 +1,45 @@
-# Projetos Seleção de Candidatos e Contador
+# Projetos: Seleção de Candidatos e Contador
 
 ## Introdução
 
-Os projetos de Seleção de Candidatos e Contador são desafios da trilha Java Básico ministrado pela DIO no Santander Bootcamp 2023: FullStack Java + Angular.
+Este repositório contém dois desafios da trilha **Java Básico** oferecida pela **DIO** no **Santander Bootcamp 2023: FullStack Java + Angular**.
 
-Os conteúdos a serem explorados são os controles de fluxo através de:
+Os projetos têm como objetivo colocar em prática os principais conceitos de **controle de fluxo**, incluindo:
 
-- Estruturas Condicionais;
-- Estruturas de repetição;
-- Tratamento de Exceções;
+- Estruturas condicionais (`if`, `else`, `switch`);
+- Estruturas de repetição (`for`, `while`, `do while`);
+- Tratamento de exceções (`try`, `catch`, `throw`, `throws`).
+
+
+##  Projetos
 
 ### Seleção de Candidatos
 
-Repositório: <a href="https://github.com/suuzanemoura/dio-projetos-selecao-candidatos-e-contador/tree/main/selecao-candidatos"> _Clique aqui_</a>
+Neste projeto, o programa simula um processo seletivo, avaliando candidatos com base em salário pretendido e exibindo resultados de forma iterativa.
+
+- Repositório: [Clique aqui](https://github.com/suuzanemoura/dio-projetos-selecao-candidatos-e-contador/tree/main/selecao-candidatos)
+
 
 ### Contador
 
-Repositório: <a href="https://github.com/suuzanemoura/dio-projetos-selecao-candidatos-e-contador/tree/main/desafio-controle-de-fluxo"> _Clique aqui_</a>
+Este desafio solicita ao usuário dois números via terminal e calcula a quantidade de interações com base nesses valores, aplicando controle de exceções.
 
-## Funcionalidades
+- Repositório: [Clique aqui](https://github.com/suuzanemoura/dio-projetos-selecao-candidatos-e-contador/tree/main/desafio-controle-de-fluxo)
 
-```bash
-. Interação do usuário com o terminal.
-```
 
 ## Tecnologias
+- Java
+- Git
 
-![java](https://img.shields.io/badge/java-4F5B93?style=for-the-badge&logo=Java&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## Destaques dos Projetos
+- Entrada e saída de dados via terminal;
+- Uso de lógica condicional e laços de repetição;
+- Implementação de tratamento de exceções;
+- Projetos simples e eficazes para treinar fundamentos de Java.
 
 ## Status do projeto
 
-- Concluído ⏳
+- ✅ Concluído
 
 ## <img alt="Coração Roxo" height="15" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/ce158244-38f2-4162-b0a4-24b1cfa66ef8"> Contato
 
